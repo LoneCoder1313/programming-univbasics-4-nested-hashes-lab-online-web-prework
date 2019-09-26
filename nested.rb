@@ -93,6 +93,7 @@ def changing_alan
         },
         :alan_kay => {
           :known_for => "Object Orientation",
+          #=> change known_for to alans_new_info.
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
